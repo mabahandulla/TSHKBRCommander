@@ -20,5 +20,3 @@
 <h3 align="center"><img src="https://github.com/mabahandulla/TSHKBRCommander/blob/main/Screenshots/Info.png" height="483" alt="Окно с информацией"/></h3>
 
 <h3 align="center"><img src="https://github.com/mabahandulla/TSHKBRCommander/blob/main/Screenshots/GeneratorSettings.png" height="273" alt="Окно генератора пароля"/></h3>
-
-<h3 align="center"><img src="https://github.com/mabahandulla/TSHKBRCommander/blob/main/Screenshots/About.png" height="258" alt="О программе"/></h3>
